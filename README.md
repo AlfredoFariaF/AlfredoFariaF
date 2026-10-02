@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Alfredo Faria Ferreira!
+# Hello, I'm Alfredo Faria Ferreira!
 
 **IT Support Technician | Networks & Infrastructure | Information Systems Student**
 
@@ -10,7 +10,7 @@ Besides my professional career, I enjoy **developing projects for fun**, mainly 
 
 ---
 
-## 🌎 Find Me Online
+## Find Me Online
 
 <p align="left">
   <a href="https://github.com/AlfredoFariaF">
@@ -24,37 +24,37 @@ Besides my professional career, I enjoy **developing projects for fun**, mainly 
 
 ---
 
-## 📚 Education
+## Education
 
-### 📖 Instituto Federal do Triângulo Mineiro — IFTM
+### Instituto Federal do Triângulo Mineiro — IFTM
 
 **Manutenção e Suporte em Informatica**
 
-### 🎓 Universidade de Uberaba — Uniube
+### Universidade de Uberaba — Uniube
 
 **Sistemas de Informação**
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-* 🎓 Information Systems student at **Uniube**
-* 🌐 Professional experience in **IT Networks and Infrastructure**
-* 🖥️ Experience with **technical support, servers, computers, and networks**
-* 🐧 Experience with **Linux and Windows Server**
-* 🐳 Interested in **Docker and virtualization**
-* 🔐 Interested in **Information Security**
-* 🤖 Curious about **IoT and Artificial Intelligence**
-* 💻 Software development as a **hobby and way of learning**
-* 🛠️ I enjoy turning ideas into projects and experimenting with new technologies
+* Information Systems student at **Uniube**
+* Professional experience in **IT Networks and Infrastructure**
+* Experience with **technical support, servers, computers, and networks**
+* Experience with **Linux and Windows Server**
+* Interested in **Docker and virtualization**
+* Interested in **Information Security**
+* Curious about **IoT and Artificial Intelligence**
+* Software development as a **hobby and way of learning**
+* I enjoy turning ideas into projects and experimenting with new technologies
 
-> 💡 **Development is also fun for me.**
+> **Development is also fun for me.**
 >
 > Not every project needs to have a commercial purpose. Many times, I build something simply because I want to understand how it works, test a technology, or turn an idea into reality.
 
 ---
 
-## 🎯 Currently
+## Currently
 
 I am currently focused on continuing to grow professionally in:
 
